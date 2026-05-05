@@ -153,32 +153,32 @@ The results suggest that popular songs are generally:
 
 ##Machine Learning Methods
 
-*To extend the analysis, machine learning models were applied to predict song popularity based on audio features.
+* To extend the analysis, machine learning models were applied to predict song popularity based on audio features.
 
-*Problem Definition
+* Problem Definition
 
-*The task was formulated as a classification problem, where songs are categorized as:
+* The task was formulated as a classification problem, where songs are categorized as:
 
-*High popularity
-*Low popularity
+* High popularity
+* Low popularity
 
 ##Models Used
 
-*Several basic machine learning models were implemented:
+* Several basic machine learning models were implemented:
 
-*Logistic Regression
-*K-Nearest Neighbors (KNN)
-*Decision Tree Classifier
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Tree Classifier
 
-*These models were chosen for their simplicity and interpretability.
+* These models were chosen for their simplicity and interpretability.
 
 ##Data Preparation
 
-*Before training the models:
+* Before training the models:
 
-*Features (X) and labels (y) were separated
-*Data was split into training and testing sets
-*Feature scaling was applied where necessary
+* Features (X) and labels (y) were separated
+* Data was split into training and testing sets
+* Feature scaling was applied where necessary
 
 
 
