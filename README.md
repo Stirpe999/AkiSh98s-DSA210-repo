@@ -151,7 +151,7 @@ The results suggest that popular songs are generally:
 
 ---
 
-##Machine Learning Methods
+## Machine Learning Methods
 
 * To extend the analysis, machine learning models were applied to predict song popularity based on audio features.
 
@@ -162,7 +162,7 @@ The results suggest that popular songs are generally:
 * High popularity
 * Low popularity
 
-##Models Used
+## Models Used
 
 * Several basic machine learning models were implemented:
 
@@ -172,7 +172,7 @@ The results suggest that popular songs are generally:
 
 * These models were chosen for their simplicity and interpretability.
 
-##Data Preparation
+## Data Preparation
 
 * Before training the models:
 
